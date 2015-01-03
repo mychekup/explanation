@@ -1,4 +1,5 @@
 // 인터페이스의 장점
+// 자바의 정석 305p [예제7-25]
 public class RepairableTest {
 
 	public static void main(String[] args) {
