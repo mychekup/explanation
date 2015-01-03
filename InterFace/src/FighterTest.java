@@ -1,4 +1,4 @@
-
+// 인터페이스의 구현
 public class FighterTest {
 
 	public static void main(String[] args) {
