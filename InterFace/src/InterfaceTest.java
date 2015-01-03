@@ -22,6 +22,8 @@ public class InterfaceTest {
 
 }
 */
+
+
 // 인터페이스를 매개체로 하여 클래스 A가 인터페이스를 통해 클래스 B의 메서드에 접근하도록 한다.
 
 interface I{
@@ -48,3 +50,4 @@ public class InterfaceTest{
 }
 // 클래스 A를 작성하는데 있어 클래스 B가 사용되지 않았다는 점을 주목.
 // 이제 클래스 A와 클래스 B는 'A-B'의 직접적인 관계에서 'A-I-B'의 간접적인 관계로 변경
+
