@@ -1,4 +1,5 @@
 // 인터페이스의 구현
+// 자바의 정석 296p [예제7-23]
 public class FighterTest {
 
 	public static void main(String[] args) {
