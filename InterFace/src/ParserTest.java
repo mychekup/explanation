@@ -1,4 +1,5 @@
 // 인터페이스를 이용한 다형성
+// 자바의 정석 301p [예제7-24]
 interface Parseable{
 	// 구문 분석작업을 수행한다.
 	public abstract void parse(String fileName);	
